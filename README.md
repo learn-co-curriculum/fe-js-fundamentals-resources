@@ -8,3 +8,4 @@
 - [Eloquent JavaScript - Comprehensive Online Book](http://eloquentjavascript.net/)
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - [OverAPI.com - JavaScript Cheat Sheet ](http://overapi.com/javascript/)
+<a href='https://learn.co/lessons/fe-js-fundamentals-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
